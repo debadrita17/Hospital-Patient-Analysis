@@ -7,13 +7,13 @@ This project analyzes hospital patient records to identify patterns in patient d
 
 The objective of this project is to analyze hospital patient data and provide meaningful business insights into:
 
---Patient demographics
---Medical conditions
---Admission patterns
---Hospital revenue
---Insurance provider utilization
---Hospital performance
---Length of patient stay
+- Patient demographics
+- Medical conditions
+- Admission patterns
+- Hospital revenue
+- Insurance provider utilization
+- Hospital performance
+- Length of patient stay
 
 The project demonstrates how Excel, SQL, and Power BI can be used together to support data-driven decision making.
 
