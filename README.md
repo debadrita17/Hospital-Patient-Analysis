@@ -106,12 +106,16 @@ The project contains three interactive dashboards.
 - Patient Distribution by Gender
 - Patient Distribution by Age Group
 - Patient Distribution by Medical Condition
+  - Dashboard 1 : ![Hospital Patient Demographics Dashboard1](https://github.com/debadrita17/Hospital-Patient-Analysis/blob/main/Dashboard%20Images/Hospital%20Patient%20Demographics%20Dashboard1.png)
+    
 ## Dashboard 2 – Hospital Billing & Revenue Dashboard
 - Total Revenue
 - Average Billing Amount
 - Revenue by Insurance Provider
 - Revenue by Medication
 - Top 10 Hospitals by Revenue
+  - Dashboard 2 : ![Hospital Billing & Revenue Dashboard2](https://github.com/debadrita17/Hospital-Patient-Analysis/blob/main/Dashboard%20Images/Hospital%20Billing%20%26%20Revenue%20Dashboard2.png)
+    
 ## Dashboard 3 – Hospital Admission & Performance Dashboard
 - Total Admissions
 - Average Length of Stay
@@ -121,6 +125,7 @@ The project contains three interactive dashboards.
 - Average Length of Stay by Admission Type
 - Billing Trend by Length of Stay
 - Top Hospitals by Patient Count
+  - Dashboard 3 : ![Hospital Admission & Performance Dashboard3](https://github.com/debadrita17/Hospital-Patient-Analysis/blob/main/Dashboard%20Images/Hospital%20Admission%20%26%20Performance%20Dashboard3.png)
 
 📌 Key Business Insights
 - Patients aged 65+ represent the largest patient population.
@@ -130,3 +135,7 @@ The project contains three interactive dashboards.
 - Revenue distribution across medical conditions is relatively balanced.
 - A small number of hospitals generated the highest overall revenue.
 - Average Length of Stay is similar across admission types and medical conditions.
+
+
+
+
