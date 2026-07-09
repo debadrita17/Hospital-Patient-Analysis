@@ -1,4 +1,4 @@
-# Healthcare Patient Demographics, Billing and Hospital Performance Analysis
+# Hospital Performance & Healthcare Analytics Dashboard
 ## Project Overview
 
 This project analyzes hospital patient records to identify patterns in patient demographics, hospital admissions, billing, insurance utilization, and hospital performance. The analysis was performed using Excel, MySQL, and Power BI, following a complete data analysis workflow from data preparation to dashboard development.
