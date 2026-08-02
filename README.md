@@ -106,7 +106,7 @@ The project contains three interactive dashboards.
 - Patient Distribution by Gender
 - Patient Distribution by Age Group
 - Patient Distribution by Medical Condition
-  - Dashboard 1 : ![Hospital Patient Demographics Dashboard1](https://github.com/debadrita17/Hospital-Patient-Analysis/blob/main/Dashboard%20Images/Hospital%20Patient%20Demographics%20Dashboard1.png)
+  - Dashboard 1 : ![Hospital Patient Demographics Dashboard1](https://github.com/debadrita17/Hospital-Patient-Analysis/blob/main/PowerBI/Hospital_Patient_Analytics.pbit)
     
 ## Dashboard 2 – Hospital Billing & Revenue Dashboard
 - Total Revenue
