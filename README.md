@@ -127,15 +127,42 @@ The project contains three interactive dashboards.
 - Top Hospitals by Patient Count
   - Dashboard 3 : ![Hospital Admission & Performance Dashboard3](https://github.com/debadrita17/Hospital-Patient-Analysis/blob/main/Dashboard%20Images/Hospital%20Admission%20%26%20Performance%20Dashboard3.png)
 
-📌 Key Business Insights
-- Patients aged 65+ represent the largest patient population.
-- Medical conditions are relatively evenly distributed across patients.
-- Cigna generated the highest total billing among insurance providers.
-- Elective admissions generated the highest billing revenue.
-- Revenue distribution across medical conditions is relatively balanced.
-- A small number of hospitals generated the highest overall revenue.
-- Average Length of Stay is similar across admission types and medical conditions.
+## 📌 Key Business Insights
+• Patients aged 65+ represent the largest patient population.
+
+• Medical conditions are relatively evenly distributed across the patient population.
+
+• Cigna generated the highest billing revenue among insurance providers, although billing remained relatively balanced across all providers.
+
+• Elective admissions generated the highest billing revenue, followed closely by Urgent and Emergency admissions.
+
+• Billing revenue across medical conditions is relatively balanced, indicating no single condition dominates hospital revenue.
+
+• Johnson PLC generated the highest revenue among hospitals, while a small number of hospitals accounted for the largest share of total revenue.
+
+• Average Length of Stay remained similar across admission types and medical conditions, suggesting relatively consistent inpatient management.
 
 
+## 📌 Business Impact
 
+This analysis can help hospital administrators to:
+
+• Understand patient demographics for better healthcare planning.
+
+• Allocate medical staff and hospital resources more efficiently.
+
+• Identify high-revenue hospitals and benchmark performance.
+
+• Evaluate insurance provider contribution to revenue.
+
+• Improve admission planning and operational efficiency.
+
+• Monitor patient length of stay for better bed management.
+
+• Support financial planning using billing and revenue analysis.
+
+
+## Conclusion
+
+This project demonstrates an end-to-end healthcare analytics workflow using Excel, MySQL, and Power BI. The analysis converts raw hospital data into meaningful business insights that support data-driven decision making in patient management, hospital operations, insurance analysis, and financial performance.
 
